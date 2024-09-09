@@ -89,7 +89,7 @@ export default function Home() {
               <div className={` ${isDark  ? "bg-[#F5F5F5]" : "bg-black"} w-3 h-3 rounded-sm `}> </div>
 
             
-            <h1 className={` ${isDark && "text-[#F5F5F5]"} font-inter400 `} > I'm Nesha </h1>
+            <h1 className={` ${isDark && "text-[#F5F5F5]"} font-inter400 `} > {`I'm Nesha`} </h1>
             </div>
             <Image  src={'/www.png'} alt="" width={100} height={100} className=" mt-2 font-inter400 w-36 h-fit object-cover" />
           </div>
