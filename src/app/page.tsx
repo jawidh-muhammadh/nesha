@@ -409,14 +409,17 @@ export default function Home() {
 
     <div className=" flex gap-3 items-center">
       <Image  src={'/behance.png'}  alt="" width={200} height={200} className=" w-10 h-10 object-cover"/>
-
+         
+         <a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/nesharaganesha"> 
       <h1 className={ ` ${isDark && " text-[#F5F5F5]"} font-inter600 `}>Behance/Nesharaj </h1>
+      </a>
     </div>
 
     <div className=" flex gap-3 items-center">
       <Image  src={'/dribble.png'}  alt="" width={200} height={200} className=" w-10 h-10 object-cover"/>
-
+      <a target="_blank" rel="noopener noreferrer" href="https://dribbble.com/shots/16801184-8X-means-BOX"> 
       <h1 className={ ` ${isDark && " text-[#F5F5F5]"} font-inter600 `}>Dribble/Nesharaj </h1>
+    </a>
     </div>
 
 
