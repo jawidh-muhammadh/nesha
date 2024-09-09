@@ -267,7 +267,7 @@ export default function Home() {
 
   <div className={ ` ${isDark && "text-[#F5F5F5]"} flex items-center justify-between `}>
 
-<Image src={'/site2.png'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
+<Image src={'/site2.PNG'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
 
 <h1 className="  font-inter400"> UI/UX & Illustrations </h1> 
 
@@ -301,7 +301,7 @@ export default function Home() {
 
   <div className={ ` ${isDark && "text-[#F5F5F5]"} flex items-center justify-between `}>
 
-<Image src={'/site3.png'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
+<Image src={'/site3.PNG'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
 
 <h1 className="  font-inter400"> UI/UX & Illustrations </h1> 
 
@@ -334,7 +334,7 @@ export default function Home() {
 
   <div className={ ` ${isDark && "text-[#F5F5F5]"} flex items-center justify-between `}>
 
-<Image src={'/site2.png'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
+<Image src={'/site2.PNG'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
 
 <h1 className="  font-inter400"> UI/UX & Illustrations </h1> 
 
@@ -368,7 +368,7 @@ export default function Home() {
 
   <div className={ ` ${isDark && "text-[#F5F5F5]"} flex items-center justify-between `}>
 
-<Image src={'/site5.png'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
+<Image src={'/site5.PNG'} alt="" width={200} height={200} className=" w-14 h-fit object-cover" />
 
 <h1 className="  font-inter400"> UI/UX & Illustrations </h1> 
 
